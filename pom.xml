@@ -99,6 +99,18 @@
                             </sources>
                         </configuration>
                     </execution>
+                    <execution>
+                        <id>test</id>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>add-source</goal>
+                        </goals>
+                        <configuration>
+                            <sources>
+                                <source>${basedir}/target/generated-sources/openapi/src/test/java</source>
+                            </sources>
+                        </configuration>
+                    </execution>
                 </executions>
             </plugin>
             <plugin>
