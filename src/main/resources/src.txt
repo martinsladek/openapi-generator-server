@@ -1,0 +1,15 @@
+Baeldung Java OpenAPI generator - server
+https://www.baeldung.com/java-openapi-generator-server
+
+Baeldung Java OpenAPI generator - client - swagger-codegen-cli
+https://www.baeldung.com/spring-boot-rest-client-swagger-codegen
+
+petstore yaml :
+https://github.com/eugenp/tutorials/blob/master/spring-boot-modules/spring-boot-libraries-2/src/main/resources/petstore.yml
+
+petstore swagger json - for client generation:
+https://petstore.swagger.io/v2/swagger.json
+
+not usable git repo (too large):
+https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-libraries-2
+
